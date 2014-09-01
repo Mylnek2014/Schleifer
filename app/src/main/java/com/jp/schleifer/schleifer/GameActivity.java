@@ -33,7 +33,7 @@ public class GameActivity extends Activity {
                 // close this activity
                 finish();
             }
-        }, 5000);
+        }, 4000);
 
     }
 
